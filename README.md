@@ -2,7 +2,7 @@
 
 # Problema
 
-# Para recuperarse un poco del tiempo en cuarentena, las cafeterías de la universidad se encuentran dando descuentos a la comunidad estudiantil y dependiendo si es estudiante o profesor, tienen descuentos diferentes. Se desea saber entonces por cada compra cuanto debe pagar el usuario en caja. Para ello:
+Para recuperarse un poco del tiempo en cuarentena, las cafeterías de la universidad se encuentran dando descuentos a la comunidad estudiantil y dependiendo si es estudiante o profesor, tienen descuentos diferentes. Se desea saber entonces por cada compra cuanto debe pagar el usuario en caja. Para ello:
 
 
 # -	Pida por teclado la siguiente información para el cliente: 
@@ -22,7 +22,7 @@ los estudiantes tienen un 50% de descuento mientras que los profesores tienen un
 
 Ejemplo: ”El profesor con Cedula 1454898 debe pagar $12.900 por el producto 076”.
 
-# Tenga en cuenta que este valor final a pagar corresponde al precio de cada producto por la cantidad llevada menos el descuento otorgado, debe imprimir el rol y la cedula de cada cliente y el código del producto llevado en el mensaje.
+Tenga en cuenta que este valor final a pagar corresponde al precio de cada producto por la cantidad llevada menos el descuento otorgado, debe imprimir el rol y la cedula de cada cliente y el código del producto llevado en el mensaje.
 
 #---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
