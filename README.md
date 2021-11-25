@@ -14,7 +14,6 @@ producto 076: gaseosa, 3 unidades).
 # -	Los descuentos están dados de la siguiente forma: 
 los estudiantes tienen un 50% de descuento mientras que los profesores tienen un 20% de descuento.
 
-#---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Al final el procedimiento por cada cliente debe imprimir el valor a pagar por sus productos de la forma:
 
@@ -24,9 +23,8 @@ Ejemplo: ”El profesor con Cedula 1454898 debe pagar $12.900 por el producto 07
 
 Tenga en cuenta que este valor final a pagar corresponde al precio de cada producto por la cantidad llevada menos el descuento otorgado, debe imprimir el rol y la cedula de cada cliente y el código del producto llevado en el mensaje.
 
-#---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Att Juan David Troncoso
+# Como se Resuelve Att Juan David Troncoso.
 
 Este problema que consiste en aplicar un descuento que ofrece la universidad a partir  de los productos que venden. Los cuales se le ofrece un descuento distinto a los diferentes roles presentados en el problema.
 
